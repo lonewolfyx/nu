@@ -13,9 +13,7 @@
 		"format": "prettier --write ./"
 	},
 	"keywords": [
-		"create",
-		"cli",
-		"torque-cli"
+		"nu"
 	],
 	"homepage": "https://github.com/lonewolfyx/nu",
 	"bugs": {
