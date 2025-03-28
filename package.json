@@ -1,7 +1,7 @@
 {
 	"name": "@lonewolfyx/nu",
 	"author": "lonewolfyx <877085893@qq.com>",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "a npm dependencies check update",
 	"type": "module",
 	"bin": {
