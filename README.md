@@ -22,17 +22,17 @@ nu
 nu
 
 Checking for outdated packages...
-Found 13 outdated packages:
+Found 7 outdated packages:
 dependencies:
-  @vueuse/core 13.0.0 -> 13.0.0
-  pinia 3.0.1 -> 3.0.1
-  vue-cropper 0.6.5 -> 0.6.5
+  @vueuse/core 12.8.2 -> 13.0.0
+  pinia 2.3.1 -> 3.0.1
+  vue-cropper 0.6.5 -> 1.1.4
 
 devDependencies:
   @vitejs/plugin-legacy 5.4.3 -> 6.0.2
-  @vitejs/plugin-vue 5.2.3 -> 5.2.3
-  tailwindcss 4.0.17 -> 4.0.17
-  vite 6.2.3 -> 6.2.3
+  @lonewolfyx/tsconfig 0.0.4 -> 0.0.5
+  @types/node 22.13.17 -> 22.14.0
+  typescript 5.8.2 -> 5.8.3
 
 All packages updated successfully!
 ```
